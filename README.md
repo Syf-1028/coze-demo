@@ -1,2 +1,6 @@
 # coze-demo
-使用coze进行开发的智能体小demo，其中内涵了对话流配置与知识库等内容。coze商店展示小测链接如下：https://www.coze.cn/s/ptnbgpDGopc/
+使用coze进行开发的智能体小demo
+1、跨境电商答疑小助手，其中内涵了对话流配置与知识库等内容。此demo之前已发布在微信公众号供好友测评，近期已下架。coze商店展示小测链接如下：https://www.coze.cn/s/ptnbgpDGopc/
+      1.1   26年8月，将上述智能体进行更新，主要更新内容为，将即将停用的大模型豆包1.8替换为豆包2.0mini进行重新发布，链接为：https://www.coze.cn/store/agent/7639662940119089167?bot_id=true
+2、历史人物视频生成，使用大模型进行相关人物提示词输入后，会生成一个链接，需将此链接放置到米核中进行转化，令进入剪映小助手进行下一步操作。链接：https://www.coze.cn/s/VGiE5YWImnc/
+      2.1   由于大模型停用与token数量限制，未进行更新。
